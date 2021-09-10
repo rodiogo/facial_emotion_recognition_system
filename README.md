@@ -1,2 +1,3 @@
-# facial_emotion_recognition_system
-A system that recognizes the 7 universal emotion expressions
+# Emotion_Detection_CNN
+
+Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
